@@ -1,8 +1,17 @@
  h1{
- 	color: #21618C;
+ 	color: #1F618D;
  	font-family:  'Dancing+Script', cursive;
  	text-align: center;
  }
+
+ #Quienes-somos{
+ 	text-align: center;
+ 	background-color: #ABD7F4;
+ }
+
+#cuadro1{
+	background-color: #78C2F3;
+}
 
   #productos
  {
